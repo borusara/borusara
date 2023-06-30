@@ -1,6 +1,6 @@
 <H1><B>Hey there ! This is Official Gothub Page of The Knight's Network</B></H1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+are+Developers+From+India.;Working+For+Akatsuki+Division%E2%9D%A4%EF%B8%8F.">
+<img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+are+Developers+From+India%E2%9C%8C%EF%B8%8F;Working+For+Akatsuki+Division%E2%9D%A4%EF%B8%8F">
 </p>
 <!--
 **borusara/borusara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
