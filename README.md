@@ -3,13 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=1C71FA&width=420&lines=We+are+Developers+From+India%F0%9F%97%BF;Working+For+Akatsuki+Division%F0%9F%91%80>
 </p>
 
-# Our GitHub Stats
-
-![Akatsuki's Git Stats](https://github-readme-stats.vercel.app/api?username=borusara&include_all_commits=true&count_private=true&theme=tokyonight)
-
-![Akatsuki's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=PrimexRick&theme=tokyonight)
-
-<!--
 **borusara/borusara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
